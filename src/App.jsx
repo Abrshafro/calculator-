@@ -14,21 +14,21 @@ function App() {
         <button type="button" className="operator">DEL</button>
         <button type="button" className="operator" id=".">.</button>
         <button type="button" className="operator "id="/">/</button>
-        <button type="button" className="operator" id="7">7</button>
-        <button type="button" className="operator" id="8">8</button>
-        <button type="button" className="operator" id="9">9</button>
+        <button type="button" className="number" id="7">7</button>
+        <button type="button" className="number" id="8">8</button>
+        <button type="button" className="number" id="9">9</button>
         <button type="button" className="operator "id="*">*</button>
-        <button type="button" className="operator" id="4">4</button>
-        <button type="button" className="operator" id="5">5</button>
-        <button type="button" className="operator" id="6">6</button>
+        <button type="button" className="number" id="4">4</button>
+        <button type="button" className="number" id="5">5</button>
+        <button type="button" className="number" id="6">6</button>
         <button type="button" className="operator "id="-">-</button>
-        <button type="button" className="operator" id="1">1</button>
-        <button type="button" className="operator" id="2">2</button>
-        <button type="button" className="operator" id="3">3</button>
+        <button type="button" className="number" id="1">1</button>
+        <button type="button" className="number" id="2">2</button>
+        <button type="button" className="number" id="3">3</button>
         <button type="button" className="operator "id="+">+</button>
-        <button type="button" className="operator" id="00">00</button>
-        <button type="button" className="operator" id="0">0</button>
-        <button type="button" className="operator "id="=">=</button>
+        <button type="button" className="number" id="00">00</button>
+        <button type="button" className="number" id="0">0</button>
+        <button type="button" className="operator col-span-2" id="=">=</button>
       </div>
     </div>
 
